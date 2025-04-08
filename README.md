@@ -3,7 +3,7 @@
 This repository contains code used in the following paper:
 
 > **Benchmarking the State of Networks with a Low-Cost Method Based on Reservoir Computing**  
-> [Felix Simon Reimers, Stefano Nichele, Carl-Hendrik Peters], [2025]  
+> [Felix Simon Reimers, Stefano Nichele, Kenth Engø-Monsen, Carl-Hendrik Peters] [2025]  
 > _[Journal/Conference]_  
 > DOI: []
 
