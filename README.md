@@ -2,7 +2,7 @@
 
 This repository contains code used in the following paper:
 
-> **[Your Paper Title]**  
+> **Benchmarking the State of Networks with a Low-Cost Method Based on Reservoir Computing**  
 > [Felix Simon Reimers, Stefano Nichele, Carl-Hendrik Peters], [2025]  
 > _[Journal/Conference]_  
 > DOI: []
@@ -19,10 +19,4 @@ This repository includes three Jupyter notebooks:
 
 ---
 
-## 🛠️ Installation
-
-Install required dependencies (via pip):
-
-```bash
-pip install -r requirements.txt
 
